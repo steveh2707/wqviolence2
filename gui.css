@@ -79,6 +79,7 @@
 }
 
 .article {
+  text-decoration: none;
   flex: 1 0 140px;
   border: thin solid grey;
   padding: 10px;
@@ -93,6 +94,7 @@
 }
 
 .article p {
+  color: black;
   margin: 0px;
   font-weight: bold;
 }
